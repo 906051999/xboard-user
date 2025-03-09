@@ -1,5 +1,5 @@
 // API地址
-window.routerBase = 'http://127.0.0.1:8000/'
+window.routerBase = 'http://156.226.173.147:50800/'
 window.settings = {
   // 站点名称
   title: 'Xboard',
